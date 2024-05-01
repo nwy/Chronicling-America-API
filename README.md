@@ -89,7 +89,7 @@ For **Newspapers from the Chronicling America collection**, the most useful **Qu
 
 | Parameter | Effect on the Query | Note |
 | --- | --- |  --- |
-| `dl=___` | Indicates whether display results will be newspaper issue or page level. | Examples: |
+| `dl=___` | Display Level. Indicates whether display results will be newspaper title, issue, or page level. | Examples: |
 | | | `all` (Default, same effect as omitting this parameter) |
 | | | `issue` |
 | | | `page`  |
