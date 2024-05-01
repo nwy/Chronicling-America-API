@@ -189,7 +189,7 @@ Feel free to follow along or download this notebook and put in your own search q
 
 ---
 
- ## Example Notebook 6: Downloading a Newspaper Title
+ ## Example Notebook 6: Part 1: Downloading a Newspaper Title
 
  To download a specific newspaper title, you need to know the following information:
   * the newspaper Title's LCCN or the correct full name/spelling of the Newsaper.
@@ -221,7 +221,7 @@ Query all newspaper issues found in Chronicling America for the Evening Star in 
 
 ---
 
-## Example Notebook 7: Download an NDNP Batch
+## Example Notebook 6: Part 2: Download an NDNP Batch
 
 To download an NDNP Batch, you need to know the following information:
 - The correct full name/spelling of the batch.
