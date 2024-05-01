@@ -1,6 +1,6 @@
 # Using the loc.gov API with the Chronicling America Historic Newspapers Collection
 ## About this Repository
-This repository contains information about using the [LoC.gov API](https://www.loc.gov/apis/) with the Chronicling America collection.  Additionally there are seven (7) Jupyter notebooks designed specifically for using the loc.gov API to access Chronicling America content. To jump directly to the Jupyter Notebooks, see **Example Notebooks** below. [Jump to Notebooks](/#example-notebooks-performing-basic-tasks-analysis-and-downloads)
+This repository contains information about using the [LoC.gov API](https://www.loc.gov/apis/) with the Chronicling America collection.  Additionally there are six (6) Jupyter notebooks designed specifically for using the loc.gov API to access Chronicling America content. To jump directly to the Jupyter Notebooks, see **Example Notebooks** below. [Jump to Notebooks](/#example-notebooks-performing-basic-tasks-analysis-and-downloads)
 ### Credits
 The Jupyter notebooks in this repository were created by NDNP staff in the Serial and Government Publications Division at the Library of Congress. The content was inspired by, and at times closely follows, the notebooks created by [LC Maps for Robots](https://github.com/LibraryOfCongress/data-exploration/blob/861bbe6e0fb9992fe1c4fedf43e3f61bccd980bc/loc.gov%20JSON%20API/maps/README.md) 
 
