@@ -5,6 +5,10 @@ This repository contains information about using the [LoC.gov API](https://www.l
 The Jupyter notebooks in this repository were created by NDNP staff in the Serial and Government Publications Division at the Library of Congress. The content was inspired by, and at times closely follows, the notebooks created by [LC Maps for Robots](https://github.com/LibraryOfCongress/data-exploration/blob/861bbe6e0fb9992fe1c4fedf43e3f61bccd980bc/loc.gov%20JSON%20API/maps/README.md) 
 
 - Contact ndnptech@loc.gov for questions about these Chronicling America notebooks.
+  
+### Rights Statement
+The content in this repository is free to use and reuse without restriction.
+
 ---
 
 
@@ -68,7 +72,7 @@ The structure of an API Query URL looks like this:
 **Base URL**: To perform an API query on Newspapers from Chronicling America, you need a URL which is divided with the following sections:
 
 
->| Library of Congress Website | End Point | Question Mark | Query Parameters | Format |
+| Library of Congress Website | End Point | Question Mark | Query Parameters | Format |
 | --- | --- |  --- | --- | --- |
 | URL for Library of Congress | Indicates the Digital Collection to be searched |  Starts Query | Indicate what is being searched | Indicates Display Format |
 | | | | Combined by ampersand `&` symbol.  | Options: json, yaml |
