@@ -162,7 +162,7 @@ Feel free to follow along or download this notebook and put in your own search q
 
 
 ---
- ## Example Notebook 4: Analyzing Analyzing Word Frequency and Location
+ ## Example Notebook 4: Analyzing Word Frequency and Location
 
  **Notebook Example:**
 
