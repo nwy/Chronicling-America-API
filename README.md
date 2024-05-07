@@ -111,7 +111,7 @@ For **Newspapers from the Chronicling America collection**, the most useful **Qu
 | `fa=language:____` | Indicates the language of the newspaper publication. | |
 | `subject_ethnicity=____` | Indicates the newspaper ethnicity *if availabile*. | Use Exclamation Mark "!" symbol between multiple ethnicities |
 | `searchType=Advanced` | Indicates the search query was the result of an advanced search. | |
-| `front_pages_only=true` | Limits the number of results to just the front page of the newspaper. | Recommended for searching major new stories. |
+| `front_pages_only=true` | Limits the number of results to just the front page of the newspaper. | Recommended for searching major news stories. |
 
 ---
 
@@ -259,7 +259,7 @@ To download all newspaper titles in a batch from Tennessee called `tu_brownie_ve
 
 [Newspaper and Current Periodical Reading Room](https://www.loc.gov/research-centers/newspaper-and-current-periodical)
 
-[Collections with Newspapers at the Library of Congress](https://www.loc.gov/collections/newspapers)
+[Collections with Newspapers at the Library of Congress](https://www.loc.gov/newspapers/collections/)
 
 [Ask a Librarian in Serial and Government Publications Division](https://ask.loc.gov/newspapers-periodicals/)
 
