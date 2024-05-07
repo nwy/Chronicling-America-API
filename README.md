@@ -13,7 +13,7 @@ The content in this repository is free to use and reuse without restriction.
 
 
 ## Chronicling America: Digital Collection of Historic American Newspapers
-[**Chronicling America**](https://chroniclingamerica.loc.gov/) is a searchable and freely accessible digital collection of historic newspaper pages. A product of the National Digital Newspaper Program (NDNP), it contains millions of newspaper pages from nearly every state and territory in the United States published through 1963.
+[**Chronicling America**](https://www.loc.gov/collections/chronicling-america/about-this-collection/) is a searchable and freely accessible digital collection of historic newspaper pages. A product of the National Digital Newspaper Program (NDNP), it contains millions of newspaper pages from nearly every state and territory in the United States published through 1963.
 
 NDNP, a partnership between the National Endowment for the Humanities (NEH) and the Library of Congress, is a long-term effort to develop an Internet-based, searchable database of U.S. newspapers with descriptive information and select digitization of historic pages. Supported by NEH, this rich digital resource is developed and permanently maintained at the Library of Congress. An NEH award program will fund the contribution of content from, eventually, all U.S. states and territories.
 
