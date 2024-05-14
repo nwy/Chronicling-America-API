@@ -187,6 +187,7 @@ Feel free to follow along or download this notebook and put in your own search q
 [ChronAm-download_search_results.ipynb](//ChronAm-download_search_results.ipynb)
 
 Note: Please make sure to limit/filter your search results in order to adhere to rate limits. Do not attempt to download large search queries because they may be too large for the loc.gov API.
+
 ---
 
  ## Example Notebook 6: Part 1: Downloading a Newspaper Title
