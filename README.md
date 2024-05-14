@@ -113,6 +113,7 @@ For **Newspapers from the Chronicling America collection**, the most useful **Qu
 | `searchType=Advanced` | Indicates the search query was the result of an advanced search. | |
 | `front_pages_only=true` | Limits the number of results to just the front page of the newspaper. | Recommended for searching major news stories. |
 
+> Note: If you're looking to download full text from the newspaper pages in a given search result, note that the full text (from OCR) is captured for each page within the "full_text" JSON field.  For example: https://www.loc.gov/resource/sn83045462/1922-12-26/ed-1/?sp=22&q=clara+bow&fo=json 
 ---
 
 # Example Notebooks (Performing Basic Tasks, Analysis, and Downloads)
