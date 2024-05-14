@@ -119,7 +119,8 @@ For **Newspapers from the Chronicling America collection**, the most useful **Qu
 Below are various examples and tasks you can perform using the [APIs for LoC.gov](https://www.loc.gov/apis/) with Chronicling America. They cover performing basic tasks, analysis, and downloads.
 - Each notebook is linked and designed to be downloaded to your computer and opened with Jupyter Notebook or Google Colab (a jupyter notebook service).
 - After a notebook has been downloaded and opened, you may follow along or edit and change the variables before running the scripted tasks.
-- Please note, downloading of newspaper pages, titles, and batches requires ample hard drive space.
+- Downloading of newspaper pages, titles, and batches requires ample hard drive space.
+> Note: If the loc.gov website is down or experiencing high demand, the example Jupyter Notebooks may not work correctly or take longer to perform queries and process data.
  ---
 
  ## Example Notebook 1: Basic API Tasks
