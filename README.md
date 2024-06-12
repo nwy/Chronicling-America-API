@@ -4,7 +4,7 @@ This repository contains information about using the [LoC.gov API](https://www.l
 ### Credits
 The Jupyter notebooks in this repository were created by NDNP staff in the Serial and Government Publications Division at the Library of Congress. The content was inspired by, and at times closely follows, the notebooks created by [LC Maps for Robots](https://github.com/LibraryOfCongress/data-exploration/blob/861bbe6e0fb9992fe1c4fedf43e3f61bccd980bc/loc.gov%20JSON%20API/maps/README.md) 
 
-- Contact ndnptech@loc.gov for questions about these Chronicling America notebooks.
+Contact ndnptech@loc.gov for questions about these Chronicling America notebooks.
   
 ### Rights Statement
 The content in this repository is free to use and reuse without restriction.
@@ -37,9 +37,8 @@ The loc.gov application programming interface (API) provides structured data abo
 However, in addition to being a resource for the computer applications powering the loc.gov website, the API can be used by developers, digital librarians, and researchers to directly retrieve digital collections information formatted as JSON or YAML data.
 
 ### Access
-The API is accessible to the public with no API key or authentication required.
-
-> Additional information on the loc.gov API can be found at: [APIs for LoC.gov](https://www.loc.gov/apis/)
+The loc.gov API is accessible to the public with no API key or authentication required.
+Additional information can be found at: [APIs for LoC.gov](https://www.loc.gov/apis/)
 
 ---
 # Rate Limits and Definitions
