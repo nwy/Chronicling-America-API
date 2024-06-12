@@ -133,7 +133,7 @@ Objectives:
 3. Understand how to find metadata elements in the JSON and print out the most common metadata fields for newspapers.
 4. Perform pagination in order to validate your search query and check the number of results you may have.
 
-Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_basic_API tasks.ipynb](//ChronAm_basic_API tasks.ipynb)
+Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_basic_API tasks.ipynb](/ChronAm_basic_API tasks.ipynb)
 
 ---
  ## Example Notebook 2: Analyzing Specific Newspapers for Content
@@ -148,7 +148,7 @@ Objectives:
 2. Limit results to only the top 16
 3. Exporting results from Queries to CSV Table
 
-Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_analyzing_specific_titles_limit_results.ipynb](//ChronAm_analyzing_specific_titles_limit_results.ipynb)
+Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_analyzing_specific_titles_limit_results.ipynb](/ChronAm_analyzing_specific_titles_limit_results.ipynb)
 
 ---
  ## Example Notebook 3: Analyzing Word Frequency on Newspaper Front Pages
@@ -160,7 +160,7 @@ Objectives:
 1. Retrieve Newspaper Page-level results for word frequency analysis
 2. Exporting results from Queries to CSV Table
 
-Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_analyzing_word_frequency_newspaper_frontpages.ipynb](//ChronAm_analyzing_word_frequency_newspaper_frontpages.ipynb)
+Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_analyzing_word_frequency_newspaper_frontpages.ipynb](/ChronAm_analyzing_word_frequency_newspaper_frontpages.ipynb)
 
 
 ---
@@ -175,7 +175,7 @@ Objectives:
 2. Exporting results from Queries to CSV Table
 3. Display Data Visualization from data gathered
 
-Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_analyzing_language_location_frequency.ipynb](//ChronAm_analyzing_language_location_frequency.ipynb)
+Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_analyzing_language_location_frequency.ipynb](/ChronAm_analyzing_language_location_frequency.ipynb)
 
 
 ---
@@ -186,7 +186,7 @@ Objectives:
 2. Exporting Metadata of Downloaded Search Results onto a CSV File
 
 Feel free to follow along or download this notebook and put in your own search queries. See:
-[ChronAm-download_search_results.ipynb](/ChronAm-download_results.ipynb)
+[ChronAm-download_results.ipynb](/ChronAm-download_results.ipynb)
 
 > Note: Please make sure to limit/filter your search results in order to adhere to rate limits. Do not attempt to download large search queries because they may be too large for the loc.gov API.
 
@@ -202,7 +202,7 @@ Objectives:
 1. Download Files from a specific newspaper title
 
 Feel free to follow along or download this notebook and put in your own search queries. See:
-[ChronAm-download_newspaper_title_batch.ipynb](//ChronAm-download_newspaper_title_batch.ipynb)
+[ChronAm-download_newspaper_title_batch.ipynb](/ChronAm-download_newspaper_title_batch.ipynb)
 
 > Note: This process takes longer to perform due to the size of the batch. Because of potential outages, rate limits and the large size of the API request, we recommend splitting the query by using facets such as start/end date (see example below).
 
@@ -235,7 +235,7 @@ Objectives:
 
 
 Feel free to follow along or download this notebook and put in your own search queries. See:
-[ChronAm-download_newspaper_title_batch.ipynb](//ChronAm-download_newspaper_title_batch.ipynb)
+[ChronAm-download_newspaper_title_batch.ipynb](/ChronAm-download_newspaper_title_batch.ipynb)
 
 > Note: This process is longer to perform due to the size of the batch. Because of potential outages, rate limits and the large size of the API request, we recommend splitting the query by using facets such as start/end date (see example below).
 
