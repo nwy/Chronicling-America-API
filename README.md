@@ -133,7 +133,7 @@ Objectives:
 3. Understand how to find metadata elements in the JSON and print out the most common metadata fields for newspapers.
 4. Perform pagination in order to validate your search query and check the number of results you may have.
 
-Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_basic_API tasks.ipynb](/ChronAm_basic_API tasks.ipynb)
+Feel free to follow along or download this notebook and put in your own search queries. See: [ChronAm_basic_API tasks.ipynb](/ChronAm_basic_API%20tasks)
 
 ---
  ## Example Notebook 2: Analyzing Specific Newspapers for Content
