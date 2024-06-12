@@ -168,7 +168,7 @@ Feel free to follow along or download this notebook and put in your own search q
 
  **Notebook Example:**
 
-> We wil utilize the API tool to look at the frequency of word usage found in Newspapers in relationship to time (when was the term published in newspapers) and location (where the term was most commonly used at on a newspaper's state location) using the term "bohunk." According to the [Race and Ethnicity Keyword Thesaurus for Chronicling America](https://edsitement.neh.gov/media-resources/race-and-ethnicity-keyword-thesaurus-chronicling-america), a bohunk is "A derogatory term for an Eastern European immigrant suggesting that they were strong but feebleminded."
+> We wil utilize the API tool to look at the frequency of word usage found in Newspapers in relationship to time (when was the term published in newspapers) and location (where the term was most commonly used at on a newspaper's state location) using the term "influenza." 
 
 Objectives:
 1. Retrieve Newspaper Page-level results for word frequency and location analysis
