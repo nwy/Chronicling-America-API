@@ -186,7 +186,7 @@ Objectives:
 2. Exporting Metadata of Downloaded Search Results onto a CSV File
 
 Feel free to follow along or download this notebook and put in your own search queries. See:
-[ChronAm-download_search_results.ipynb](/ChronAm-download_search_results.ipynb)
+[ChronAm-download_search_results.ipynb](/ChronAm-download_results.ipynb)
 
 > Note: Please make sure to limit/filter your search results in order to adhere to rate limits. Do not attempt to download large search queries because they may be too large for the loc.gov API.
 
